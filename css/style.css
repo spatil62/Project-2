@@ -6,6 +6,12 @@ body{
   line-height: 1.5;
 }
 
+p,ul,ol,li{
+	text-align: center;
+	position: relative;
+}
+
+
 iframe{
 	height: 360px;
     width: 490px;
