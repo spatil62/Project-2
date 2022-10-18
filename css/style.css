@@ -12,7 +12,8 @@ p,ul,ol,li{
 }
 
 nav{
-  background-color:#bbc454;
+  background-color:#0f0f06;
+  color: white;
   width: 100%;
   overflow: hidden;
   margin: 0 auto;
