@@ -6,6 +6,15 @@ body{
   line-height: 1.5;
 }
 
+iframe{
+	height: 360px;
+    width: 490px;
+	margin: 2.5em auto;
+	display: block;
+    box-sizing: border-box;
+}
+
+
 img{
     height: 300px;
     width: 300px;
