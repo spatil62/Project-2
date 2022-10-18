@@ -6,10 +6,10 @@ body{
   line-height: 1.5;
 }
 
-p,ol{
+/*p,ol{
 	text-align: center;
 	position: relative;
-}
+}*/
 
 nav{
   background-color:#0f0f06;
