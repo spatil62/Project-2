@@ -23,8 +23,13 @@ nav{
 }
 
 h1{
-	margin: 2em auto;
+	margin: 1em auto;
 	background-color: #85850f;
+}
+
+h2{
+	text-decoration: underline;'
+	text-underline-offset: 0.09em;
 }
 
 iframe{
