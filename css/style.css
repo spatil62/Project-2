@@ -44,11 +44,8 @@ h1 {
   background-color: #85850f;
 }
 
-h2,
-h4,
-h5 {
+h2,h4, h5 {
   text-decoration: underline;
-  '
  text-underline-offset: 0.09em;
 }
 
