@@ -56,6 +56,7 @@ img{
 body{
   background-image: url("../images/background.jpg");
   font-family: Arial;
+  width: 100%;
   color: black;
   font-size: 1em;
   line-height: 1.5;
@@ -82,11 +83,11 @@ nav ul li a{
 
 
 nav ul{
-	  margin: 0;
-  list-style-type: none;
-   vertical-align: top;
-   display: inline-block;
-  padding: 0;
+	margin: 0px;
+	padding: 0px;
+  	list-style-type: none;
+   	vertical-align: top;
+   	display: inline-flex;
 }
 
 
@@ -116,4 +117,13 @@ img{
 	margin: 1em auto;
     box-sizing: border-box;
 
+}
+
+#wrapContent{
+	display: flex;
+	justify-content: space-evenly;
+}
+
+#bodyWrap{
+	display: grid;
 }
