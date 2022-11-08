@@ -1,6 +1,3 @@
-
-
-
 body {
   background-image: url("../images/background.jpg");
   font-family: Arial;
@@ -24,9 +21,10 @@ nav {
 
 
 nav ul li a {
+  color: white;
   display: block;
   padding: 1.00em 0.9em;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 
@@ -52,7 +50,7 @@ h2,h4, h5 {
 iframe {
   height: 360px;
   width: 490px;
-  margin: 2.5em auto;
+ /* margin: 2.5em auto;*/
   display: block;
   box-sizing: border-box;
 }
@@ -74,4 +72,42 @@ img {
 #bodyWrap {
   display: grid;
 
+}
+
+.img-right{
+      float: right;
+    margin-top: 0px;
+}
+
+.padding-10{
+  padding: 10px;
+}
+
+.title{
+  text-align: center;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.img-left{
+    margin-right: 10px;
+      float: left;
+    margin-top: 0px;
+}
+
+.padding-left-10
+{
+  padding-left: 10px;
+}
+
+.position-abs
+{
+    position: absolute;
+    top: 5px;
+    left: 504px;
+}
+
+.position-relative
+{
+  position: relative;
 }
