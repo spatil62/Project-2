@@ -75,6 +75,8 @@ img {
 }
 
 .img-right{
+  margin-right: 10px;
+  margin-left: 10px;
       float: right;
     margin-top: 0px;
 }
@@ -90,6 +92,7 @@ img {
 }
 
 .img-left{
+   margin-left: 10px;
     margin-right: 10px;
       float: left;
     margin-top: 0px;
@@ -97,11 +100,14 @@ img {
 
 .padding-left-10
 {
+  margin-right: 15px;
+
   padding-left: 10px;
 }
 
 .position-abs
 {
+    margin-right: 15px;
     position: absolute;
     top: 5px;
     left: 504px;
@@ -111,3 +117,4 @@ img {
 {
   position: relative;
 }
+
