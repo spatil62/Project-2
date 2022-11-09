@@ -42,15 +42,15 @@ h1 {
   background-color: #85850f;
 }
 
-h2,h4, h5 {
+h2,h4,h5 {
   text-decoration: underline;
- text-underline-offset: 0.09em;
+  text-underline-offset: 0.09em;
 }
 
 iframe {
   height: 360px;
   width: 490px;
- /* margin: 2.5em auto;*/
+  /* margin: 2.5em auto;*/
   display: block;
   box-sizing: border-box;
 }
@@ -74,47 +74,43 @@ img {
 
 }
 
-.img-right{
+.img-right {
   margin-right: 10px;
   margin-left: 10px;
-      float: right;
-    margin-top: 0px;
+  float: right;
+  margin-top: 0px;
 }
 
-.padding-10{
+.padding-10 {
   padding: 10px;
 }
 
-.title{
+.title {
   text-align: center;
   font-weight: bold;
   font-size: 23px;
 }
 
-.img-left{
-   margin-left: 10px;
-    margin-right: 10px;
-      float: left;
-    margin-top: 0px;
+.img-left {
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+  margin-top: 0px;
 }
 
-.padding-left-10
-{
+.padding-left-10 {
   margin-right: 15px;
 
   padding-left: 10px;
 }
 
-.position-abs
-{
-    margin-right: 15px;
-    position: absolute;
-    top: 5px;
-    left: 504px;
+.position-abs {
+  margin-right: 15px;
+  position: absolute;
+  top: 5px;
+  left: 504px;
 }
 
-.position-relative
-{
+.position-relative {
   position: relative;
 }
-
